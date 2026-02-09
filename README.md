@@ -6,13 +6,13 @@ This is an analysis of the movies and shows of Netflix from the period 2010–20
 
 ## Table of contents
 
-- [Movies]
+- **Movies**
   - Movie releases per year
   - Movie releases per year and genre
   - Distribution of movie genres by country
   - Top movie directors
   - Top movie actors
-- [Shows]
+- **Shows**
   - Show releases per year
   - Show releases per year and genre
   - Distribution of show genres by country
